@@ -1,50 +1,50 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: ratier.franck@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Franck Ratier
+title: Lulu Studio
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Design. Innovation. Engeneering
+#url: 
+#twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
+  #- name: twitter
+  #  url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://www.instagram.com/ratierfranck/
+  #- name: linkedin
+  #  url: https://www.linkedin.com/in/thomasvaeth/
+  #- name: github
+  #  url: https://github.com/samesies
+  #- name: codepen
+  #  url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+formcarry: https://formcarry.com/s/S29jfM07bAqK
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+#disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+#mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+#mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Franck Ratier
+    bio: Franck Ratier was born in Paris and transplanted in Romania via the UK. He was an Electronics Engineer, a Bar Owner, a Linus Systems & AWS Cloud Engineer, but now he is a Designer & Maker.
+    #url: http://thomasvaeth.com
 
 # Pagination settings
 pagination:
   enabled: true
   debug: false
-  per_page: 12
+  per_page: 6
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Lulu Design'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
