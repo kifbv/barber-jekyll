@@ -25,7 +25,9 @@ layout: default
           {{content}}
         </div>
 
+{% comment %}
         {% include share.html %}
+{% endcomment %}
       </div>
     </div>
 
@@ -58,6 +60,7 @@ layout: default
   </article>
 </div>
 
+{% comment %}
 <!-- Links to Previous/Next posts -->
 {% assign relatedTag = page.tags | first %}
 {% if relatedTag %}
@@ -83,3 +86,4 @@ layout: default
     </div>
   </section>
 {% endif %}
+{% endcomment %}
