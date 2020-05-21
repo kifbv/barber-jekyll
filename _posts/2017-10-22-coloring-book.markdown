@@ -3,12 +3,10 @@ layout: post
 title: "Coloring Book"
 date: 2017-10-22
 description: 
-image: /assets/images/placeholder-8.jpg
+image: /assets/images/box4.42.jpg
 author: Thomas Vaeth
 tags: 
-  - Squid
-  - Moon Drinking
-  - Kale
+  - Box
 ---
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
