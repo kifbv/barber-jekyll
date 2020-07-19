@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: ratier.franck@gmail.com
-baseurl: "franck.studio"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
