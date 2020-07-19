@@ -1,13 +1,13 @@
 # Site/SEO settings
 email: ratier.franck@gmail.com
-baseurl: ""
+baseurl: "franck.studio"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Franck Ratier
-title: Lulu Design Studio
+title: Franck Studio
 description: >
-  Design. Innovation. Engineering
+  Design|Craftmanship|Innovation|Engineering
 #url: 
 #twitter_username: 
 default_img: /assets/images/seo.jpg
@@ -37,7 +37,7 @@ formcarry: https://formcarry.com/s/S29jfM07bAqK
 # Author settings
 author:
   - name: Franck Ratier
-    bio: Franck Ratier was born in Paris and transplanted in Romania via the UK. He was an Electronics Engineer, a Bar Owner, a Linus Systems & AWS Cloud Engineer, but now he is a Designer & Maker.
+    bio: Franck Ratier was born in Paris and transplanted in Romania via the UK. He was an Electronics Engineer, a Bar Owner, a Linux Systems & AWS Cloud Engineer. He is a Designer & Maker.
     #url: http://franckratier.com
 
 # Pagination settings
