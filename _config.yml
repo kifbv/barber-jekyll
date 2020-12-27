@@ -37,7 +37,7 @@ mailchimp_input: b_697f51f2e06e95be9feb2c6c2_3b55a530e4
 # Author settings
 author:
   - name: Franck Ratier
-    bio: Franck Ratier is a Designer-Maker, born in France, living and working in Romania.
+    #bio: Franck Ratier is a Designer-Maker, born in France, living and working in Romania.
     #url: http://franckratier.com
 
 # Pagination settings
