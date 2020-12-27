@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Franck Ratier
-title: Franck Lucien Studio
+title: Franck Studio
 description: >
   Design|Craftmanship|Innovation|Engineering
 #url: 
@@ -31,8 +31,8 @@ formcarry: https://formcarry.com/s/S29jfM07bAqK
 #disqus: test-apkdzgmqhj
 
 # MailChimp settings
-#mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-#mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: https://gmail.us7.list-manage.com/subscribe/post?u=697f51f2e06e95be9feb2c6c2&amp;id=3b55a530e4
+mailchimp_input: b_697f51f2e06e95be9feb2c6c2_3b55a530e4
 
 # Author settings
 author:
@@ -84,3 +84,4 @@ exclude:
   - package.json
   - README.md
   - vendor
+
