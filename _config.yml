@@ -55,7 +55,7 @@ autopages:
   categories:
     enabled: true
   collections:
-    enabled: false
+    enabled: true
   tags:
     layouts: 
       - 'tag.html'
